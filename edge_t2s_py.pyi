@@ -1,0 +1,3 @@
+from typing import Awaitable
+
+def t2s(text: str, narrator_name: str, rate: int, pitch: int) -> Awaitable[bytes]: ...
