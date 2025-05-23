@@ -11,6 +11,10 @@ Built on top of:
 
 ## Installation
 
+First, install Rust (required by edge-t2s) from [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install).
+
+Then, clone the repository and install the Python dependencies:
+
 ```bash
 git clone https://github.com/draco-tlw/edge-t2s-py-cli.git
 cd edge-t2s-py-cli
